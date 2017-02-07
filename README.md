@@ -57,7 +57,6 @@
 * Remote repository
 * Git
 * GitHub
-* GitHub Desktop
 * Terminal
 
 ## History
